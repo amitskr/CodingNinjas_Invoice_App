@@ -30,7 +30,7 @@ def login_page():
     st.markdown(
         """
         <div style="text-align:center; margin-top: 50px;">
-            <img src="https://www.codingninjas.com/careercamp/wp-content/uploads/2025/10/CN_Logo_Dark.png" width="200">
+            <img src="https://www.codingninjas.com/careercamp/wp-content/uploads/2025/10/CN_logo_white.png" width="200">
             <h2 style="color:#d5977e; margin-top: 30px;">Invoice Generator</h2>
             <p style="color:#666;">Please login to continue</p>
         </div>
