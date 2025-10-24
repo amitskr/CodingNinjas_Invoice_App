@@ -11,7 +11,7 @@ st.markdown(
     """
     <div style="text-align:center">
         <img src="https://www.codingninjas.com/careercamp/wp-content/uploads/2025/10/CN_logo_white.png" width="160">
-
+        <h2 style="color:#d5977e;"></h2>
         <h3 style="color:#d5977e;">Mentor/Alumni Invoice Generator</h3>
         <p>Upload your CSV file to automatically generate branded PDF invoices for each mentor/alumni.</p>
     </div>
