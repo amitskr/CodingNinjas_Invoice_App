@@ -288,7 +288,7 @@ def main_app():
                             zipf.writestr(f"{safe_filename}_invoice_{current_invoice_num}.pdf", pdf_bytes)
                             
                             invoice_count += 1
-                            current_invoice_num += 1
+                            # current_invoice_num += 1 
     
                     buffer.seek(0)
                     st.download_button(
